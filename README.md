@@ -23,13 +23,13 @@ The code is developed using CNN techniques and in conjunction with the ResNet18 
 ## Training data analysis
 
 - Train loss
-![Train loss](.\image\test_loss.png)
+<img alt="Train loss" src=".\image\test_loss.png" >
 
 - Valid accuracy
-![Valid accuracy](.\image\valid_accuracy.png)
+<img alt="Valid accuracy" src=".\image\valid_accuracy.png" >
 
 - Test loss
-![Test loss](.\image\test_loss.png)
+<img alt="Test loss" src=".\image\test_loss.png" >
 
 
 # All FYP SOURCE CODE
